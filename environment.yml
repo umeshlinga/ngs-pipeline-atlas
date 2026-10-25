@@ -1,0 +1,16 @@
+# NGS Pipeline Atlas - reproducible environment (Conda)
+# Recreate with:  mamba env create -f environment.yml
+# Exact resolved builds used for the published runs: environment-explicit.txt
+name: ngs-atlas
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11.17
+  - nextflow=26.10.3
+  - bwa=0.7.19
+  - samtools=1.24
+  - bcftools=1.24
+  - fastp=1.4.0
+  - fastqc=0.13.0
+  - seqtk=1.5
