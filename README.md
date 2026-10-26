@@ -1,4 +1,4 @@
-**Live results:** https://umeshlinga.github.io/evidra/
+**Live results:** https://omevra.github.io/
 # NGS Pipeline Atlas
 
 A reproducible, multi-sample bacterial whole-genome sequencing pipeline:
